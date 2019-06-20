@@ -1,0 +1,769 @@
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\App.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\MainPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.xr.xml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.exe
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.pdb
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\resources.pri
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\AppxManifest.xml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Core\ZooFantasy.exe
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.build.appxrecipe
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Core.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Numerics.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Windows.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Globalization.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\clrjit.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\clrcompression.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.AppContext.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Buffers.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Data.Common.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Http.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.csprojResolveAssemblyReference.cache
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.g.i.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.xaml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.xaml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.exe
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.pdb
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\priconfig.xml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\layout.resfiles
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.resfiles
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\pri.resfiles
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\qualifiers.txt
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\MainMenuPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.g.i.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.xaml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\CardsPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.g.i.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.xaml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\SettingsPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\UserPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.g.i.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.g.i.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.xaml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.xaml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\DeckChoosePage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.g.i.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.xaml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\StoryModeStageChoosePage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.g.i.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.xaml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\ChallengeModeStageChoosePage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.g.i.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.xaml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\BattlefieldPage.xbf
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.g.i.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.g.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.xaml
+C:\Users\z\Documents\Visual Studio 2017\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\App.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\MainPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\BattlefieldPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\CardsPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\ChallengeModeStageChoosePage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\DeckChoosePage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\MainMenuPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\SettingsPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\StoryModeStageChoosePage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\UserPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.xr.xml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.exe
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.pdb
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\resources.pri
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\AppxManifest.xml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Core\AppxManifest.xml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Core\ZooFantasy.exe
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.build.appxrecipe
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Microsoft.CSharp.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Core.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Numerics.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Windows.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.Linq.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.Serialization.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Globalization.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Handles.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.Encoding.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Timer.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.FileSystem.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Primitives.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Sockets.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\clrjit.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\clrcompression.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Private.Uri.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.AppContext.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Buffers.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.Immutable.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.Specialized.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Data.Common.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.Compression.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.Expressions.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.Parallel.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.Queryable.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Http.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.NameResolution.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Requests.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.WebSockets.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.WebSockets.Client.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ObjectModel.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Context.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Emit.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Claims.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Principal.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.XDocument.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.csprojResolveAssemblyReference.cache
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.g.i.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.g.i.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.g.i.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.g.i.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.g.i.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.g.i.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.g.i.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.g.i.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.g.i.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.g.i.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.xaml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.xaml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.xaml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.xaml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.xaml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.xaml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.xaml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.xaml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.xaml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.xaml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.xbf
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\XamlSaveStateFile.xml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.csproj.CoreCompileInputs.cache
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.exe
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.pdb
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ResourceHandlingTask.state
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\priconfig.xml
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\priconfig.xml.intermediate
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\layout.resfiles
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\layout.resfiles.intermediate
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.resfiles
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.resfiles.intermediate
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\pri.resfiles
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\pri.resfiles.intermediate
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\qualifiers.txt
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\qualifiers.txt.intermediate
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.en-us.resfiles
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.en-us.resfiles.intermediate
+E:\程序\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ProjectArchitectures.txt
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\App.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\MainPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\BattlefieldPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\CardsPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\ChallengeModeStageChoosePage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\DeckChoosePage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\MainMenuPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\SettingsPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\StoryModeStageChoosePage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Pages\UserPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.xr.xml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.exe
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.pdb
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\resources.pri
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\AppxManifest.xml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Core\AppxManifest.xml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Core\ZooFantasy.exe
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\ZooFantasy.build.appxrecipe
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Microsoft.CSharp.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Core.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Numerics.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Windows.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.Linq.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.Serialization.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Globalization.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Handles.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.Encoding.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Timer.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.FileSystem.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Primitives.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Sockets.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\clrjit.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\clrcompression.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Private.Uri.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.AppContext.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Buffers.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.Immutable.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Collections.Specialized.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Data.Common.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.Compression.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.Expressions.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.Parallel.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Linq.Queryable.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Http.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.NameResolution.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.Requests.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.WebSockets.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Net.WebSockets.Client.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ObjectModel.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Context.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Emit.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Claims.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Security.Principal.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.XDocument.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.csprojAssemblyReference.cache
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.g.i.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.g.i.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.g.i.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.g.i.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.g.i.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.g.i.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.g.i.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.g.i.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.g.i.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.g.i.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.xaml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.xaml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.xaml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.xaml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.xaml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.xaml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.xaml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.xaml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.xaml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.xaml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\App.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MainPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\BattlefieldPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\CardsPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\ChallengeModeStageChoosePage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\DeckChoosePage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\MainMenuPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\SettingsPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\StoryModeStageChoosePage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\Pages\UserPage.xbf
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\XamlSaveStateFile.xml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.csproj.CoreCompileInputs.cache
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.csproj.CopyComplete
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.exe
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ZooFantasy.pdb
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ResourceHandlingTask.state
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\priconfig.xml
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\priconfig.xml.intermediate
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\unfiltered.layout.resfiles
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\filtered.layout.resfiles
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\excluded.layout.resfiles
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.resfiles
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.resfiles.intermediate
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\pri.resfiles
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\pri.resfiles.intermediate
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\qualifiers.txt
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\qualifiers.txt.intermediate
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.en-us.resfiles
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\resources.en-us.resfiles.intermediate
+E:\编程\Projects\实验工程\ZooFantasy\ZooFantasy\obj\x86\Debug\ProjectArchitectures.txt

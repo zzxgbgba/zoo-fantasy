@@ -1,0 +1,15 @@
+10
+12
+12
+Fire Hydrophant
+Elephant
+Battlecry:Destory all minions and discard your hand
+#BattlecryEffect
+0000
+*Result
+DestoryAllMinions
+1
+*Result
+DiscardHand
+1
+#End

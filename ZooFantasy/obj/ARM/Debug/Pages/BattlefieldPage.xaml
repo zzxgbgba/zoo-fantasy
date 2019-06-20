@@ -1,0 +1,125 @@
+﻿<Page 
+    x:Class="ZooFantasy.Pages.BattlefieldPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ZooFantasy.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:cardData="using:ZooFantasy.CardData" 
+    xmlns:minionData="using:ZooFantasy.MinionData" 
+    xmlns:battlefieldBata="using:ZooFantasy.BattlefieldData"
+    mc:Ignorable="d">
+
+
+    <Grid x:ConnectionId='1' AllowDrop="True" Name="MainGrid"                                            >
+        <Grid.Background>
+            <ImageBrush Stretch="UniformToFill" ImageSource="ms-appx:///Resource/BackGround/BattlefieldBackGround.jpg"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button x:ConnectionId='2' Name="MainPageButton" Grid.Row="0"
+                    Content="&#xE10F;" RelativePanel.AlignTopWithPanel="True" Margin="5" FontSize="20" Foreground="White"                              RelativePanel.AlignHorizontalCenterWithPanel="True" FontFamily="Segoe MDL2 Assets" Width="40" Height="40" HorizontalAlignment="Right" VerticalAlignment="Top" 
+                    />
+
+        <Grid x:ConnectionId='3' Name="EnemyHeroGrid" Grid.Row="0" HorizontalAlignment="Center" Background="#33000000" Width="280" AllowDrop="True"                                                            >
+            <Image x:ConnectionId='26' Name="EnemyHeroImage" Source="ms-appx:///Resource/HeroImages/EnemyHero/Training Ground.jpg" Margin="20,5,0,5" HorizontalAlignment="Left"/>
+            <TextBlock x:ConnectionId='27' Name="EnemyHeroHealthTextBlock"  FontSize="30" Foreground="White" Margin="20,0,20,10" Width="50" Height="50" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
+        </Grid>
+
+        <RelativePanel x:ConnectionId='4'  Grid.RowSpan="4" Name="DetailRelativePanel" Background="#33000000" HorizontalAlignment="Right" VerticalAlignment="Center" Width="320" Height="480" Margin="0,0,10,0" Visibility="Collapsed" Canvas.ZIndex="2">
+            <Image x:ConnectionId='19' Name="DetailImage" RelativePanel.AlignTopWithPanel="True" Canvas.ZIndex="2" Margin="5,5,5,5"/>
+            <TextBlock x:ConnectionId='20' Name="DetailName" RelativePanel.Below="DetailCost" FontSize="24" Foreground="White" Canvas.ZIndex="2" HorizontalAlignment="Center" RelativePanel.AlignHorizontalCenterWithPanel="True"/>
+            <TextBlock x:ConnectionId='21' Name="DetailCategory" RelativePanel.Below="DetailCost" FontSize="16" Foreground="White" Canvas.ZIndex="2" HorizontalAlignment="Center"  RelativePanel.RightOf="DetailName" RelativePanel.AlignVerticalCenterWith="DetailName" Margin="20,0,0,0" />
+            <TextBlock x:ConnectionId='22' Name="DetailCost" RelativePanel.Below="DetailImage" FontSize="24" Foreground="Blue" Canvas.ZIndex="2" HorizontalAlignment="Center" RelativePanel.AlignHorizontalCenterWithPanel="True" />
+            <TextBlock x:ConnectionId='23' Name="DetailDes" Width="280" RelativePanel.Below="DetailName" FontSize="18" Foreground="White" Canvas.ZIndex="2" HorizontalAlignment="Center" RelativePanel.AlignHorizontalCenterWithPanel="True" TextWrapping="WrapWholeWords" Margin="5" TextAlignment="Center" />
+            <TextBlock x:ConnectionId='24' Name="DetailAttack" RelativePanel.Below="DetailDes"  FontSize="20" Foreground="White" RelativePanel.AlignLeftWithPanel="True" Canvas.ZIndex="2" Margin="5,0,0,0"/>
+            <TextBlock x:ConnectionId='25' Name="DetailHealth" FontSize="20" Foreground="White"  RelativePanel.Below="DetailDes" RelativePanel.AlignRightWithPanel="True" Canvas.ZIndex="2" Margin="0,0,5,0"/>
+        </RelativePanel>
+
+        <GridView x:ConnectionId='5' Name="EnemyMinionPanel"
+                  Grid.Row="1" Margin="10,10,10,10" 
+                  Background="#33000000"
+                  IsItemClickEnabled="True"
+                  SelectionMode="None"
+                  AllowDrop="True"
+                  ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+                  >
+            <GridView.Items>
+
+            </GridView.Items>
+        </GridView>
+
+
+
+        <GridView x:ConnectionId='6' Name="PlayerMinionPanel"
+                  Grid.Row="2" Margin="10,10,10,10" 
+                  Background="#33000000"
+                  SelectionMode="Single"
+                  AllowDrop="True"
+                                               
+                                                       
+                  CanDragItems="True" 
+                  ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+                  >
+            <GridView.Items >
+            </GridView.Items>
+        </GridView>
+
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3.5*"/>
+                <ColumnDefinition Width="1.5*"/>
+                <ColumnDefinition Width="0.6*"/>
+            </Grid.ColumnDefinitions>
+
+            <GridView x:ConnectionId='7' Name="OriginHandCardGridView"  Visibility="Collapsed"
+                  SelectionMode="Multiple"
+                  IsItemClickEnabled="True"
+                  IsRightTapEnabled="True"
+                  Margin="20,0,0,0" 
+                  HorizontalContentAlignment="Stretch"  >
+                <GridView.Items >
+                </GridView.Items>
+            </GridView>
+
+            <TextBlock x:ConnectionId='8' Name="LeftCardNum" Grid.Column="0" Visibility="Collapsed" Foreground="White" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="24"/>
+            <GridView x:ConnectionId='9' Name="HandCardGridView"
+                  SelectionMode="None"
+                  IsItemClickEnabled="True"
+                  IsRightTapEnabled="True"
+                  Margin="20,0,0,0" 
+                  HorizontalContentAlignment="Stretch" 
+                  CanDragItems="True" 
+                                                                                                                                  ScrollViewer.HorizontalScrollBarVisibility="Hidden">
+                <GridView.Items >
+                </GridView.Items>
+            </GridView>
+
+            <Grid x:ConnectionId='10' Name="PlayerHeroGrid" Grid.Column="1" Background="#33000000" Margin="10" HorizontalAlignment="Center" Width="280" AllowDrop="True" >
+                <Image x:ConnectionId='17' Name="PlayerHeroImage" Source="ms-appx:///Resource/HeroImages/PlayerHero/PlayerHero.png" Margin="20,5,0,5" Width="170" Height="170" HorizontalAlignment="Left" />
+                <TextBlock x:ConnectionId='18' Name="PlayerHeroHealthTextBlock" FontSize="30"  Foreground="White" RelativePanel.RightOf="PlayerHeroImage" Margin="20,0,20,10" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="50" Height="50"/>
+            </Grid>
+
+            <RelativePanel x:ConnectionId='11' Name="RightBottomRelativePanel" Grid.Column="2" Background="#33000000" Margin="10">
+                <Button x:ConnectionId='12' Name="ConfirmHandCardButton"
+                    Content="Confirm" RelativePanel.AlignTopWithPanel="True" Margin="5" FontSize="20" Foreground="White"                                     RelativePanel.AlignHorizontalCenterWithPanel="True" 
+                    />
+                <Button x:ConnectionId='13' Name="PlayerEndTurnButton" 
+                    Content="End Turn"  RelativePanel.AlignTopWithPanel="True" Margin="5" FontSize="20" Foreground="White"                                   RelativePanel.AlignHorizontalCenterWithPanel="True"/>
+                <TextBlock x:ConnectionId='14' Name="CostTextBlock" RelativePanel.Below="PlayerEndTurnButton" FontSize="26" Text="Cost" Foreground="Blue" RelativePanel.AlignHorizontalCenterWithPanel="True" Visibility="Collapsed"/>
+                <TextBlock x:ConnectionId='15' Name="CurrentCostTextBlock" RelativePanel.Below="CostTextBlock" Margin="-20,5,5,5" FontSize="26" Foreground="Blue" RelativePanel.AlignHorizontalCenterWithPanel="True" Visibility="Collapsed"/>
+                <TextBlock x:ConnectionId='16' Name="MaxCostTextBlock" RelativePanel.Below="CostTextBlock" RelativePanel.RightOf="CurrentCostTextBlock" Margin="5" FontSize="26" Foreground="Blue" Visibility="Collapsed"/>
+            </RelativePanel>
+
+        </Grid>
+
+
+    </Grid>
+</Page>
+

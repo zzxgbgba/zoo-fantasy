@@ -1,0 +1,9 @@
+2
+2
+1
+Ostri Chevalier
+Ostrich
+Charge
+#Charge
+0000
+#End

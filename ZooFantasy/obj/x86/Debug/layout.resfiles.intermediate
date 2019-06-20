@@ -1,0 +1,69 @@
+WinMetadata\Windows.winmd
+Assets\LockScreenLogo.scale-200.png
+Assets\SplashScreen.scale-200.png
+Assets\Square150x150Logo.scale-200.png
+Assets\Square44x44Logo.scale-200.png
+Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+Assets\StoreLogo.png
+Assets\Wide310x150Logo.scale-200.png
+ZooFantasy.xr.xml
+Properties\Default.rd.xml
+Resource\BackGround\BattlefieldBackGround.jpg
+Resource\BackGround\MenuBackGround (1).jpg
+Resource\BackGround\MenuBackGround (2).jpg
+Resource\BackGround\MenuBackGround (3).jpg
+Resource\BackGround\MenuBackGround (4).jpg
+Resource\BackGround\MenuBackGround (5).jpg
+Resource\BackGround\MenuBackGround (6).jpg
+Resource\BackGround\MenuBackGround (7).jpg
+Resource\ButtonImages\CardsButton.jpg
+Resource\ButtonImages\ChallengeButton.jpg
+Resource\ButtonImages\StoryButton.png
+Resource\ButtonImages\Training Ground.jpg
+Resource\CardData\MinionCardData\Buffalo\Bufferrari.png
+Resource\CardData\MinionCardData\Buffalo\Bufferrari.txt
+Resource\CardData\MinionCardData\Buffalo\Cape Buffalo.png
+Resource\CardData\MinionCardData\Buffalo\Cape Buffalo.txt
+Resource\CardData\MinionCardData\Buffalo\Diabuffalo.png
+Resource\CardData\MinionCardData\Buffalo\Diabuffalo.txt
+Resource\CardData\MinionCardData\Elephant\Elephant.png
+Resource\CardData\MinionCardData\Elephant\Elephant.txt
+Resource\CardData\MinionCardData\Elephant\Fire Hydrophant.png
+Resource\CardData\MinionCardData\Elephant\Fire Hydrophant.txt
+Resource\CardData\MinionCardData\Elephant\Jellephant.png
+Resource\CardData\MinionCardData\Elephant\Jellephant.txt
+Resource\CardData\MinionCardData\List.txt
+Resource\CardData\MinionCardData\Ostrich\Celebirdy.png
+Resource\CardData\MinionCardData\Ostrich\Celebirdy.txt
+Resource\CardData\MinionCardData\Ostrich\Ostri Chevalier.png
+Resource\CardData\MinionCardData\Ostrich\Ostri Chevalier.txt
+Resource\CardData\MinionCardData\Ostrich\Ostrich.png
+Resource\CardData\MinionCardData\Ostrich\Ostrich.txt
+Resource\CardData\MinionCardData\Ostrich\Ostwitch.png
+Resource\CardData\MinionCardData\Ostrich\Ostwitch.txt
+Resource\CardData\MinionCardData\Vulture\Pop Vulture.png
+Resource\CardData\MinionCardData\Vulture\Pop Vulture.txt
+Resource\CardData\MinionCardData\Vulture\Volture.png
+Resource\CardData\MinionCardData\Vulture\Volture.txt
+Resource\CardData\MinionCardData\Vulture\Vulture.png
+Resource\CardData\MinionCardData\Vulture\Vulture.txt
+Resource\CardData\MinionCardData\Zebra\Elektro Zebra.png
+Resource\CardData\MinionCardData\Zebra\Elektro Zebra.txt
+Resource\CardData\MinionCardData\Zebra\Zebra.png
+Resource\CardData\MinionCardData\Zebra\Zebra.txt
+Resource\CardData\MinionCardData\Zebra\Zegasus.png
+Resource\CardData\MinionCardData\Zebra\Zegasus.txt
+Resource\CardData\SpellCardData\Arcane Intellect.png
+Resource\CardData\SpellCardData\Arcane Intellect.txt
+Resource\CardData\SpellCardData\Backstab.png
+Resource\CardData\SpellCardData\Backstab.txt
+Resource\CardData\SpellCardData\Frostbolt.png
+Resource\CardData\SpellCardData\Frostbolt.txt
+Resource\CardData\SpellCardData\List.txt
+Resource\EnemyData\MinionCardData\Vulture\Viva Las Vulture.png
+Resource\EnemyData\MinionCardData\Vulture\Viva Las Vulture.txt
+Resource\EnemyData\MinionCardData\Vulture\Vulture.png
+Resource\EnemyData\MinionCardData\Vulture\Vulture.txt
+Resource\HeroImages\EnemyHero\Pig.jpg
+Resource\HeroImages\EnemyHero\Training Ground.jpg
+Resource\HeroImages\PlayerHero\PlayerHero.png

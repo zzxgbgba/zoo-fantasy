@@ -1,0 +1,12 @@
+5
+5
+5
+Zegasus
+Zebra
+Battlecry:Deal 4 damage
+#BattlecryEffect
+1111
+*Result
+DealDamage
+4
+#End

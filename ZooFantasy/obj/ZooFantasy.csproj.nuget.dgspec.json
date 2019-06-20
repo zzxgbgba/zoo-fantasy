@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\编程\\Projects\\实验工程\\ZooFantasy\\ZooFantasy\\ZooFantasy.csproj": {}
+  },
+  "projects": {
+    "E:\\编程\\Projects\\实验工程\\ZooFantasy\\ZooFantasy\\ZooFantasy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\编程\\Projects\\实验工程\\ZooFantasy\\ZooFantasy\\ZooFantasy.csproj",
+        "projectName": "ZooFantasy",
+        "projectPath": "E:\\编程\\Projects\\实验工程\\ZooFantasy\\ZooFantasy\\ZooFantasy.csproj",
+        "projectJsonPath": "E:\\编程\\Projects\\实验工程\\ZooFantasy\\ZooFantasy\\project.json",
+        "packagesPath": "C:\\Users\\zzx82\\.nuget\\packages\\",
+        "outputPath": "E:\\编程\\Projects\\实验工程\\ZooFantasy\\ZooFantasy\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\zzx82\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.2.2, )"
+      },
+      "frameworks": {
+        "uap10.0.10586": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

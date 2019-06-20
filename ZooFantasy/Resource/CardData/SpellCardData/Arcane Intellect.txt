@@ -1,0 +1,9 @@
+3
+Arcane Intellect
+Draw 2 cards
+#SpellEffect
+0000
+*Result
+DrawCard
+2
+#End

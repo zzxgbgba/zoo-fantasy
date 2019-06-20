@@ -1,0 +1,12 @@
+2
+1
+1
+Vulture
+Vulture
+Battlecry:Draw 1 card
+#BattlecryEffect
+0000
+*Result
+DrawCard
+1
+#End

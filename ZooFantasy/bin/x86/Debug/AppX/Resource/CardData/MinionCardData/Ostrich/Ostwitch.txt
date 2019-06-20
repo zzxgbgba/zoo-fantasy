@@ -1,0 +1,12 @@
+3
+2
+2
+Ostwitch
+Ostrich
+Battlecry:Deal 1 damage to all enemy minions
+#BattlecryEffect
+0000
+*Result
+DealDamageToAllEnemyMinions
+1
+#End

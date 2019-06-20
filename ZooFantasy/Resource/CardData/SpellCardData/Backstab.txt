@@ -1,0 +1,12 @@
+0
+Backstab
+Deal 2 damage to the undamaged minion
+#SpellEffect
+1100
+*AimRequirement
+AimUndamaged
+1
+*Result
+DealDamage
+2
+#End

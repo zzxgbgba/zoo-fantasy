@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{B91B60F2-317F-49F2-AC77-2234B73DD255}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ZooFantasy</RootNamespace>
+    <AssemblyName>ZooFantasy</AssemblyName>
+    <DefaultLanguage>zh-CN</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion>10.0.14393.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10586.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WindowsXamlEnableOverview>true</WindowsXamlEnableOverview>
+    <PackageCertificateKeyFile>ZooFantasy_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <None Include="project.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BattlefieldData\Battlefield.cs" />
+    <Compile Include="BattlefieldData\EnemyHeroData.cs" />
+    <Compile Include="BattlefieldData\PlayerData.cs" />
+    <Compile Include="BattlefieldData\PlayerHeroData.cs" />
+    <Compile Include="CardData\BaseCard.cs" />
+    <Compile Include="CardData\Card.cs" />
+    <Compile Include="CardData\CardDataManager.cs" />
+    <Compile Include="CardData\Deck.cs" />
+    <Compile Include="CardData\DeckManager.cs" />
+    <Compile Include="CardData\HandCardManager.cs" />
+    <Compile Include="CardData\MinionCard.cs" />
+    <Compile Include="CardData\SpellCard.cs" />
+    <Compile Include="EffectData\Effect.cs" />
+    <Compile Include="EffectData\EffectAim.cs" />
+    <Compile Include="EffectData\EffectAimRequirement.cs" />
+    <Compile Include="EffectData\EffectAimRequirementCheck.cs" />
+    <Compile Include="EffectData\EffectRequirement.cs" />
+    <Compile Include="EffectData\EffectRequirementCheck.cs" />
+    <Compile Include="EffectData\EffectResult.cs" />
+    <Compile Include="EffectData\EffectResultDo.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MinionData\Minion.cs" />
+    <Compile Include="MinionData\MinionManager.cs" />
+    <Compile Include="Pages\BattlefieldPage.xaml.cs">
+      <DependentUpon>BattlefieldPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\CardsPage.xaml.cs">
+      <DependentUpon>CardsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ChallengeModeStageChoosePage.xaml.cs">
+      <DependentUpon>ChallengeModeStageChoosePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\DeckChoosePage.xaml.cs">
+      <DependentUpon>DeckChoosePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MainMenuPage.xaml.cs">
+      <DependentUpon>MainMenuPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SettingsPage.xaml.cs">
+      <DependentUpon>SettingsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\StoryModeStageChoosePage.xaml.cs">
+      <DependentUpon>StoryModeStageChoosePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\UserPage.xaml.cs">
+      <DependentUpon>UserPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stage\StageManager.cs" />
+    <Compile Include="User\User.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="Resource\ButtonImages\CardsButton.jpg" />
+    <Content Include="Resource\ButtonImages\ChallengeButton.jpg" />
+    <Content Include="Resource\ButtonImages\StoryButton.png" />
+    <Content Include="Resource\ButtonImages\Training Ground.jpg" />
+    <Content Include="Resource\CardData\MinionCardData\Buffalo\Bufferrari.png" />
+    <Content Include="Resource\CardData\MinionCardData\Buffalo\Bufferrari.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Elephant\Elephant.png" />
+    <Content Include="Resource\CardData\MinionCardData\Elephant\Elephant.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Elephant\Fire Hydrophant.png" />
+    <Content Include="Resource\CardData\MinionCardData\Elephant\Fire Hydrophant.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Elephant\Jellephant.png" />
+    <Content Include="Resource\CardData\MinionCardData\Elephant\Jellephant.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Ostrich\Celebirdy.png" />
+    <Content Include="Resource\CardData\MinionCardData\Ostrich\Celebirdy.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Ostrich\Ostri Chevalier.png" />
+    <Content Include="Resource\CardData\MinionCardData\Ostrich\Ostri Chevalier.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Ostrich\Ostrich.png" />
+    <Content Include="Resource\CardData\MinionCardData\Ostrich\Ostrich.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Ostrich\Ostwitch.png" />
+    <Content Include="Resource\CardData\MinionCardData\Ostrich\Ostwitch.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Vulture\Pop Vulture.png" />
+    <Content Include="Resource\CardData\MinionCardData\Vulture\Pop Vulture.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Vulture\Volture.png" />
+    <Content Include="Resource\CardData\MinionCardData\Vulture\Volture.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Vulture\Vulture.png" />
+    <Content Include="Resource\CardData\MinionCardData\Vulture\Vulture.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Zebra\Elektro Zebra.png" />
+    <Content Include="Resource\CardData\MinionCardData\Zebra\Elektro Zebra.txt" />
+    <Content Include="Resource\CardData\SpellCardData\Arcane Intellect.png" />
+    <Content Include="Resource\CardData\SpellCardData\Arcane Intellect.txt" />
+    <Content Include="Resource\CardData\SpellCardData\Backstab.png" />
+    <Content Include="Resource\CardData\SpellCardData\Backstab.txt" />
+    <Content Include="Resource\CardData\SpellCardData\Frostbolt.png" />
+    <Content Include="Resource\CardData\SpellCardData\Frostbolt.txt" />
+    <Content Include="Resource\CardData\SpellCardData\List.txt" />
+    <Content Include="Resource\HeroImages\EnemyHero\Pig.jpg" />
+    <Content Include="Resource\HeroImages\EnemyHero\Training Ground.jpg" />
+    <Content Include="Resource\HeroImages\PlayerHero\PlayerHero.png" />
+    <None Include="ZooFantasy_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="Resource\BackGround\BattlefieldBackGround.jpg" />
+    <Content Include="Resource\BackGround\MenuBackGround %281%29.jpg" />
+    <Content Include="Resource\BackGround\MenuBackGround %282%29.jpg" />
+    <Content Include="Resource\BackGround\MenuBackGround %283%29.jpg" />
+    <Content Include="Resource\BackGround\MenuBackGround %284%29.jpg" />
+    <Content Include="Resource\BackGround\MenuBackGround %285%29.jpg" />
+    <Content Include="Resource\BackGround\MenuBackGround %286%29.jpg" />
+    <Content Include="Resource\BackGround\MenuBackGround %287%29.jpg" />
+    <Content Include="Resource\CardData\MinionCardData\Buffalo\Cape Buffalo.png" />
+    <Content Include="Resource\CardData\MinionCardData\Buffalo\Cape Buffalo.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Buffalo\Diabuffalo.png" />
+    <Content Include="Resource\CardData\MinionCardData\Buffalo\Diabuffalo.txt" />
+    <Content Include="Resource\CardData\MinionCardData\List.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Zebra\Zebra.png" />
+    <Content Include="Resource\CardData\MinionCardData\Zebra\Zebra.txt" />
+    <Content Include="Resource\CardData\MinionCardData\Zebra\Zegasus.png" />
+    <Content Include="Resource\CardData\MinionCardData\Zebra\Zegasus.txt" />
+    <Content Include="Resource\EnemyData\MinionCardData\Vulture\Viva Las Vulture.png" />
+    <Content Include="Resource\EnemyData\MinionCardData\Vulture\Viva Las Vulture.txt" />
+    <Content Include="Resource\EnemyData\MinionCardData\Vulture\Vulture.png" />
+    <Content Include="Resource\EnemyData\MinionCardData\Vulture\Vulture.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\BattlefieldPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\CardsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ChallengeModeStageChoosePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\DeckChoosePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\MainMenuPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SettingsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\StoryModeStageChoosePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\UserPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

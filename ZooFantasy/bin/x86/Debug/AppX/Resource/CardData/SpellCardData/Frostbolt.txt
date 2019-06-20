@@ -1,0 +1,9 @@
+2
+Frostbolt
+Deal 3 damage
+#SpellEffect
+1111
+*Result
+DealDamage
+3
+#End
